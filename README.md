@@ -6,7 +6,7 @@ This project analyzes literacy rates across Nepal using census data. The analysi
 
 ## Data Source
 
-- **Dataset**: Population by Literacy Status (Nepal Census)
+- **Dataset**: Population by Literacy Status Nepal Census 2021 (Table 17: Population aged 5 years and above by literacy status, NPHC 2021)
 - **Source**: [Nepal Census Data](https://censusnepal.cbs.gov.np/results/downloads/census-dataset)
 
 ## Files
